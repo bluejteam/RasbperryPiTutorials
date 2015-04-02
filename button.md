@@ -122,3 +122,27 @@ If you want to know more about how the LED and Button classes use GPIO to contro
 <p><a href="PWMLed.md">Next tutorial</a></p>
 <p><a href="led.md">Previous tutorial</a></p>
 <p><a href="README.md"> Back to the index</a></p>
+
+
+</div>
+</div>
+</div>
+	
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="http://code.jquery.com/jquery.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+$(window).load(function(){
+$('.carousel').carousel({interval: 8000});
+});
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-301920-1";
+urchinTracker();
+</script>
+</div>
+</body>
+</html>
