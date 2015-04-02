@@ -71,8 +71,9 @@ The circuit is shown in Figure 4, below:
 
 <p></p>
 <p>BlueJ will ask for the "name of the instance": the suggested name is good for now. You will see a red rectangle on the bottom left of the BlueJ window named "lED1":</p>
-<p align="center>
+<p align="center">
 <img src="lED1-created.png" width="700"></p>
+
 <p align="center"><figcaption>Figure 7: An instance of LED on the object bench.</figcaption></p>
 
 
