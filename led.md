@@ -140,5 +140,5 @@ This method can be used in order to make your program wait a given number of mil
 <li><i>Exercise 1.5</i>: Find out all the patterns Morse Code uses, and write a new method for the Controller class which flashes out any string you give it in Morse Code.</li>
 </ul>
 <p></p>
-<p><a href="button.html">Next tutorial</a></p>
-<p><a href="index.html"> Back to the index</a></p>
+<p><a href="button.md">Next tutorial</a></p>
+<p><a href="readme.md"> Back to the index</a></p>
