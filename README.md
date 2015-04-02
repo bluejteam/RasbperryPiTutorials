@@ -1,3 +1,17 @@
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Bootstrap -->
+<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+
+<link href="../bluej.css" rel="stylesheet"/>
+<link href='http://fonts.googleapis.com/css?family=Arbutus+Slab' rel='stylesheet' type='text/css'>
+
+</head>
+<body>
+<div class="bluej_main container">
+
+<div class="text-center row">
+
 # <img src="http://bluej.org/bluej-icon-256.png" height="75" align="top"> BlueJ on the Raspberry Pi! <img src="http://bluej.org/raspberrypi/raspberrypi-B-plus.jpg" height="75">
 
 [BlueJ](http://bluej.org/) BlueJ is an Integrated Development Environment (IDE) written in Java, designed for the teaching of java for beginners.
