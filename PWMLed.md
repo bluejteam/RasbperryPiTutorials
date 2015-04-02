@@ -1,6 +1,6 @@
 <h1 algin="center"><img src="http://bluej.org/bluej-icon-256.png" height="70"/> Adjustable LED Tutorial <img src="raspberrypi-B-plus.jpg" height="70"></h1>
 <p>This is a quick tutorial on how to use BlueJ on the Raspberry Pi to create a Soft PWM (Software Pulse Width Modulation) pin and use it to control a LED brightness. It is not intended to be a complete description of how to use the pins: for that, see the sections called <a href="button.md#UnderTheHood">Under the Hood</a>.</p>
-<p>This tutorial will make use of the project <a href="projects/AdjustableLED.zip">AdjustableLED</a>, which should be downloaded and open in your BlueJ running on the Raspberry Pi.</p>
+<p>This tutorial will make use of the project <a href="projects/AdjustableLED.zip">AdjustableLED</a>, which should be downloaded and open in your BlueJ running on the Raspberry Pi.</p> 
 <p>We use the same LED from the previous section. If you already have it assembled to your Raspberry Pi, (and downloaded the <a href="https://github.com/bluejteam/RasbperryPiTutorials/raw/master/projects/AdjustableLED.zip">AdjustableLED</a> project), you can go directly to the <a href="#code">Code</a> section of this tutorial.</p>
 
 <h3>Material</h3>
