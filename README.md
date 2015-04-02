@@ -18,3 +18,19 @@ As basis for your own projects, all of the above I/O helper classes, plus helper
 ###Note:
 
 All of the normal BlueJ functionality also works on the Raspberry Pi, however, although BlueJ runs as a regular user, your code runs as root (to support access to the hardware). In normal use, you will not notice the difference, but if you write code which e.g. delete system files, then you can cause system problems on the Pi.
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="http://code.jquery.com/jquery.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+$(window).load(function(){
+$('.carousel').carousel({interval: 8000});
+});
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-301920-1";
+urchinTracker();
+</script>
