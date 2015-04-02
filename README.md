@@ -1,4 +1,4 @@
-# BlueJ on the Raspberry Pi
+# <img src="http://bluej.org/bluej-icon-256.png" height="70" > BlueJ on the Raspberry Pi! <img src="http://bluej.org/raspberrypi/raspberrypi-B-plus.jpg" height="70">
 
 [BlueJ](http://bluej.org/) BlueJ is an Integrated Development Environment (IDE) written in Java, designed for the teaching of java for beginners.
 
