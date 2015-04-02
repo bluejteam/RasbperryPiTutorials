@@ -142,3 +142,23 @@ This method can be used in order to make your program wait a given number of mil
 <p></p>
 <p><a href="button.md">Next tutorial</a></p>
 <p><a href="README.md"> Back to the index</a></p>
+
+
+
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="http://code.jquery.com/jquery.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+$(window).load(function(){
+$('.carousel').carousel({interval: 8000});
+});
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-301920-1";
+urchinTracker();
+</script>
+
