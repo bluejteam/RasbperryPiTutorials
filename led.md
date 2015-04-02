@@ -2,7 +2,7 @@
 <h2 align="center"><img src="http://bluej.org/bluej-icon-256.png" height="70"/> LED Tutorial <img src="http://bluej.org/raspberrypi/raspberrypi-B-plus.jpg" height="70"></h>
 <p>This tutorial describes how to use BlueJ on the Raspberry Pi to to interact with simple electronics using the Pi's GPIO pins (General-Purpose Input/Output pins). It is not intended to be a complete description of how to use the pins: for that, see the sections called <a href="#UnderTheHood">Under the Hood</a>.</p>
 <p>The tutorial is divided into two parts. In the first we'll look at output and lighting an LED, in the second we'll look at input from a button.</p>
-<p>If you have not got BlueJ installed in your Raspberry Pi, please install it by following the instructions <a href="index.html#installation">here</a>.</p>
+<p>If you have not got BlueJ installed in your Raspberry Pi, please install it by following the instructions <a href="http://bluej.org/raspberrypi/index.html#installation">here</a>.</p>
 
 <h2>Section 1: Interacting with a LED</h2>
 <p>In this section, we will connect a LED to a Raspberry Pi and turn it on and off by direct object manipulation using BlueJ.  This tutorial will make use of the project <a href="https://github.com/bluejteam/RasbperryPiTutorials/raw/master/projects/LEDButton.zip">LEDButton</a>, which you should  download and open in  BlueJ running on the Raspberry Pi.</p>
