@@ -1,6 +1,6 @@
 <h1 align="center"> BlueJ - LED Tutorial</h1>
 <h2 align="center"><img src="http://bluej.org/bluej-icon-256.png" height="70"/> LED Tutorial <img src="http://bluej.org/raspberrypi/raspberrypi-B-plus.jpg" height="70"></h>
-<p>This tutorial describes how to use BlueJ on the Raspberry Pi to to interact with simple electronics using the Pi's GPIO pins (General-Purpose Input/Output pins). It is not intended to be a complete description of how to use the pins: for that, see the sections called <a href="#UnderTheHood">Under the Hood</a>.</p>
+<p>This tutorial describes how to use BlueJ on the Raspberry Pi to to interact with simple electronics using the Pi's GPIO pins (General-Purpose Input/Output pins). It is not intended to be a complete description of how to use the pins: for that, see the sections called <a href="button.md#UnderTheHood">Under the Hood</a>.</p>
 <p>The tutorial is divided into two parts. In the first we'll look at output and lighting an LED, in the second we'll look at input from a button.</p>
 <p>If you have not got BlueJ installed in your Raspberry Pi, please install it by following the instructions <a href="http://bluej.org/raspberrypi/index.html#installation">here</a>.</p>
 
