@@ -17,8 +17,8 @@
 
 <div class="row">
 <div class="col-md-10 col-md-offset-1">
-<p>This is a quick tutorial on how to use BlueJ on the Raspberry Pi to control a servo motor using Soft PWM (Software Pulse Width Modulation). It is not intended to be a complete description of how to use the pins: for that, see the sections called <a href="UnderTheHood">Under the Hood</a>. For more information about what servo motors are and how they work, please click <a href="http://www.servocity.com/html/how_do_servos_work_.html#.VFA7zHVWLeQ">here</a></p>
-<p>This tutorial will make use of the project <a href="projects/ServoMotor.zip">ServoMotor</a>, which should be downloaded and open in your BlueJ running on the Raspberry Pi.</p>
+<p>This is a quick tutorial on how to use BlueJ on the Raspberry Pi to control a servo motor using Soft PWM (Software Pulse Width Modulation). It is not intended to be a complete description of how to use the pins: for that, see the sections called <a href="button.md#UnderTheHood">Under the Hood</a>. For more information about what servo motors are and how they work, please click <a href="http://www.servocity.com/html/how_do_servos_work_.html#.VFA7zHVWLeQ">here</a></p>
+<p>This tutorial will make use of the project <a href="https://github.com/bluejteam/RasbperryPiTutorials/raw/master/projects/ServoMotor.zip">ServoMotor</a>, which should be downloaded and open in your BlueJ running on the Raspberry Pi.</p>
 
 <h3>Material</h3>
 <p>For this experiment, we will need:</p>
