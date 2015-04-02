@@ -141,4 +141,4 @@ This method can be used in order to make your program wait a given number of mil
 </ul>
 <p></p>
 <p><a href="button.md">Next tutorial</a></p>
-<p><a href="readme.md"> Back to the index</a></p>
+<p><a href="README.md"> Back to the index</a></p>
