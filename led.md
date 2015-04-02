@@ -5,7 +5,7 @@
 <p>If you have not got BlueJ installed in your Raspberry Pi, please install it by following the instructions <a href="index.html#installation">here</a>.</p>
 
 <h2>Section 1: Interacting with a LED</h2>
-<p>In this section, we will connect a LED to a Raspberry Pi and turn it on and off by direct object manipulation using BlueJ.  This tutorial will make use of the project <a href="projects/LEDButton.zip">LEDButton</a>, which you should  download and open in  BlueJ running on the Raspberry Pi.</p>
+<p>In this section, we will connect a LED to a Raspberry Pi and turn it on and off by direct object manipulation using BlueJ.  This tutorial will make use of the project <a href="https://github.com/bluejteam/RasbperryPiTutorials/raw/master/projects/LEDButton.zip">LEDButton</a>, which you should  download and open in  BlueJ running on the Raspberry Pi.</p>
 
 <h3>Material</h3>
 <p>For this experiment, you will need:</p>
