@@ -148,8 +148,8 @@ Every time you reload the page, a different random number will be sent to you.
 </ul>
 <p></p>
 
-<p><a href="ServoMotor.md">Next tutorial</a></p>
-<p><a href="button.md">Previous tutorial</a></p>
+<p><a href="worksheet3.md">Next tutorial</a></p>
+<p><a href="worksheet1.md">Previous tutorial</a></p>
 <p><a href="README.md"> Back to the index</a></p>
 
 </div>
