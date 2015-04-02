@@ -120,7 +120,7 @@ If you want to know more about how the LED and Button classes use GPIO to contro
 <p></p>
 <p>You can use these two classes as a starting point for controlling other devices using GPIO input and output pins. For all the details of how they work and the way you can access them from Java,  visit the <a href="http://pi4j.com/usage.html">Pi4J website</a> and the <a href='http://pi4j.com/apidocs/index.html'>Pi4J library documentation</a>.      </p>
 <p><a href="PWMLed.md">Next tutorial</a></p>
-<p><a href="led.md">Previous tutorial</a></p>
+<p><a href="worksheet.md">Previous tutorial</a></p>
 <p><a href="README.md"> Back to the index</a></p>
 
 
