@@ -165,7 +165,7 @@ This method returns an integer from 0 to max. Use this method in order to help y
 <p>Be aware: 1 millisecond is a very short time.</li>
 </ul>
 
-<p><a href="PWMLed.md">Previous tutorial</a></p>
+<p><a href="worksheet2.md">Previous tutorial</a></p>
 <p><a href="README.md"> Back to the index</a></p>
 
 
