@@ -22,12 +22,12 @@ BlueJ provides full access to hardware attached to the Raspberry Pi via the open
 
 ## Tutorials
 
-* [LED tutorial](http://bluej.org/raspberrypi/led.html)
-* [Button tutorial](http://bluej.org/raspberrypi/button.html)
-* [Adjustable LED tutorial](http://bluej.org/raspberrypi/PWMLed.html)
-* [Controlling a servo motor](http://bluej.org/raspberrypi/ServoMotor.html)
+* [LED tutorial](led.md)
+* [Button tutorial](button.md)
+* [Adjustable LED tutorial](PWMLed.md)
+* [Controlling a servo motor](ServoMotor.md)
 
-As basis for your own projects, all of the above I/O helper classes, plus helper classes to use analog inputs: using the MCP3008, and another one using a just a capacitor (described [here](http://www.raspberrypi-spy.co.uk/2012/08/reading-analogue-sensors-with-one-gpio-pin/)) are avaliable in [a single BlueJ project for download](http://bluej.org/raspberrypi/projects/AllComponents.zip).
+As basis for your own projects, all of the above I/O helper classes, plus helper classes to use analog inputs: using the MCP3008, and another one using a just a capacitor (described [here](http://www.raspberrypi-spy.co.uk/2012/08/reading-analogue-sensors-with-one-gpio-pin/)) are avaliable in [a single BlueJ project for download](projects/AllComponents.zip).
 
 ###Note:
 
